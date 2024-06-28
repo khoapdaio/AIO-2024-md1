@@ -1,5 +1,6 @@
-streamlit==1.32.0
+streamlit==1.36.0
 hugchat==0.4.8
 opencv-python==4.10.0.84
-numpy==1.26.4
+opencv-python-headless==4.10.0.84
+numpy==2.0.0
 pillow==10.3.0
